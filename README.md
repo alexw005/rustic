@@ -1,0 +1,2 @@
+# rustic
+rustc project testing
